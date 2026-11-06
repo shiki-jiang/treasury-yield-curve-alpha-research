@@ -37,7 +37,7 @@ Training: 2018–2020; holdout: Jan 2021 – Sep 2026 (69 completed trading mont
 
 Annualized active return: **−0.20%**; tracking error: **0.84%**; factor-adjusted alpha estimate: **−0.51% per year** (Newey–West/HAC t = −1.89, p = 0.059). **This is not evidence of positive alpha.**
 
-The Nelson–Siegel/AR model's forecast RMSE was **higher** than the simple no-change benchmark at all four tenors. For example, 10Y RMSE was **30.25 bp** versus **27.86 bp** for no-change. Pre-2021 PCA of yield changes assigns **93.6%** of explained total variation to PC1. See [complete research report](reports/research_report.md) for all results and caveats.
+The Nelson–Siegel/VAR(1) model's forecast RMSE was **higher** than the simple no-change benchmark at all four tenors. For example, 10Y RMSE was **30.25 bp** versus **27.86 bp** for no-change. Pre-2021 PCA of yield changes assigns **93.6%** of explained total variation to PC1. See [complete research report](reports/research_report.md) for all results and caveats.
 
 ## Files
 
