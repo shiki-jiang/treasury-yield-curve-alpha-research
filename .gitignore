@@ -1,0 +1,9 @@
+.venv/
+.idea/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+# ETF adjusted-price history from Yahoo Finance is for local research use;
+# public clones can regenerate it using `python run.py --refresh`.
+data/etf_prices.csv

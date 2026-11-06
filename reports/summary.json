@@ -1,0 +1,52 @@
+{
+  "n_months": 69,
+  "first_month": "2021-01",
+  "last_month": "2026-09",
+  "strategy": {
+    "total_return": -0.15137378837027704,
+    "annual_return": -0.02814189827834024,
+    "annual_volatility": 0.07044599069156514,
+    "max_drawdown": -0.2146616666250718
+  },
+  "benchmark": {
+    "total_return": -0.14307414456565037,
+    "annual_return": -0.026495516651899753,
+    "annual_volatility": 0.07432739164135028,
+    "max_drawdown": -0.2120286772231511
+  },
+  "annual_active_return": -0.0019585087552762394,
+  "tracking_error": 0.008438984356782945,
+  "information_ratio": -0.23207872801684504,
+  "turnover_sum": 4.323049692890333,
+  "cost_total_return_points": 0.0021615248464451663,
+  "annual_factor_adjusted_alpha": -0.005133902537730509,
+  "alpha_hac_t": -1.8911204296834405,
+  "alpha_hac_p": 0.058608269951074835,
+  "pca_explained_variance": [
+    0.9357117946796972,
+    0.05770013230961418,
+    0.00578885774173446
+  ],
+  "forecast_rmse_bp": {
+    "2 Yr": {
+      "NS_VAR_RMSE_bp": 31.6473,
+      "No_change_RMSE_bp": 30.0316
+    },
+    "5 Yr": {
+      "NS_VAR_RMSE_bp": 33.0471,
+      "No_change_RMSE_bp": 30.6228
+    },
+    "10 Yr": {
+      "NS_VAR_RMSE_bp": 30.2533,
+      "No_change_RMSE_bp": 27.8616
+    },
+    "30 Yr": {
+      "NS_VAR_RMSE_bp": 26.4932,
+      "No_change_RMSE_bp": 24.5322
+    }
+  },
+  "price_source_start": "2018-01-02",
+  "price_source_end": "2026-10-30",
+  "yield_source_start": "2018-01-02",
+  "yield_source_end": "2026-10-30"
+}
